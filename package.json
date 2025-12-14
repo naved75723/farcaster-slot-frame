@@ -1,0 +1,12 @@
+{
+  "name": "slot-frame",
+  "private": true,
+  "scripts": {
+    "dev": "frog dev",
+    "build": "frog build",
+    "start": "frog start"
+  },
+  "dependencies": {
+    "frog": "^0.13.0"
+  }
+}
