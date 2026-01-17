@@ -1,6 +1,6 @@
 {
   "name": "slot-frame",
-  "private": true,
+  "private": tru,
   "scripts": {
     "dev": "frog dev",
     "build": "frog build",
