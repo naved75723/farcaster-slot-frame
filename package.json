@@ -7,6 +7,6 @@
     "start": "frog start"
   },
   "dependencies": {
-    "frog": "^0.14.0"
+    "frog": "^0.13.0"
   }
 }
